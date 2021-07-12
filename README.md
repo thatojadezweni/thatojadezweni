@@ -5,7 +5,7 @@
 
 Currently a final year BSc Computer Science at the 
 University of Pretoria and looking forward to expand
-my knowledge in the field of broad field of Computer Science.
+my knowledge in the broad field of Computer Science.
 
 ## :rocket: Skills
 
