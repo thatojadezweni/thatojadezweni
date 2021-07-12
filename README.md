@@ -26,7 +26,7 @@ my knowledge in the broad field of Computer Science.
 ## :zap: Interests
 - Artificial Intelligence
 - Anime
-- Penetration Testing
+- Ethical Hacking
 - Painting
 
   
