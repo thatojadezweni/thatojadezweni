@@ -3,8 +3,9 @@
 
 ## :construction_worker: About me
 
-I am currently a final year BSc Computer Science
-at the University of Pretoria.
+Currently a final year BSc Computer Science at the 
+University of Pretoria and looking forward to expand
+my knowledge in the field of broad field of Computer Science.
 
 ## :rocket: Skills
 
@@ -25,6 +26,7 @@ at the University of Pretoria.
 ## :zap: Interests
 - Artificial Intelligence
 - Anime
+- Penetration Testing
 - Painting
 
   
