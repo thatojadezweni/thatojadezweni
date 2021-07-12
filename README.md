@@ -9,9 +9,9 @@ my knowledge in the broad field of Computer Science.
 
 ## :rocket: Skills
 
-- Data structures and algorithms
+- Data structures and Algorithms
 - Backend Development
-- Relational databases
+- Relational Databases
 - Version Control
 
 ## :wrench: Technologies
