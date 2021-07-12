@@ -1,7 +1,30 @@
-### Hi there, I'm Thato :wave:
 
-## I'm a Computer Science student at the University of Pretoria!
-- 👀 I’m interested in Anime, Music & Programming
-- :joy: I’m currently learning everything 
-- :fire: I’m looking to collaborate with other developers
-- :boom: 2021 Goals: Have more repositories on my github
+# Thato Jadezweni
+
+## :construction_worker: About me
+
+I am currently a final year BSc Computer Science
+at the University of Pretoria.
+
+## :rocket: Skills
+
+- Data structures and algorithms
+- Backend Development
+- Relational databases
+- Version Control
+
+## :wrench: Technologies
+- C++
+- Java
+- HTML5, CSS3
+- Javascript, Typescript
+- NodeJS
+- Flask
+- PostgreSQL
+
+## :zap: Interests
+- Artificial Intelligence
+- Anime
+- Painting
+
+  
