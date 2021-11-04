@@ -20,7 +20,6 @@ my knowledge in the broad field of Computer Science.
 - HTML5, CSS3
 - Javascript, Typescript
 - NodeJS
-- Flask
 - PostgreSQL
 
 ## :zap: Interests
