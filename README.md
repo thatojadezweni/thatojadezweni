@@ -13,6 +13,7 @@ my knowledge in the broad field of Computer Science.
 - Backend Development
 - Relational Databases
 - Version Control
+- Unit & Integration Testing
 
 ## :wrench: Technologies
 - C++
@@ -21,6 +22,7 @@ my knowledge in the broad field of Computer Science.
 - Javascript, Typescript
 - NodeJS
 - PostgreSQL
+- MySQL
 
 ## :zap: Interests
 - Artificial Intelligence
