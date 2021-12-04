@@ -1,7 +1,7 @@
 
 # Hi :wave:, I Am Thato
 
-&ensp;<a href="https://www.linkedin.com/in/thato-jadezweni/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a> 
+&ensp;<a href="https://www.linkedin.com/in/thato-jadezweni/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="20"/></a> 
 
 I am a BSc Computer Science student interested in **Backend Engineering**.
 
@@ -25,6 +25,10 @@ My favourite ones are Docker, ASP.NET, Typescript and Svelte.
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=ThatoJadezweni)](https://github.com/anuraghazra/github-readme-stats)
 
+<!-- Uncomment at a later stage
+
 ## :computer: Most Used Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThatoJadezweni&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+-->
