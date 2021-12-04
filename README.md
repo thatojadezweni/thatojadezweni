@@ -1,7 +1,7 @@
 
 # Hi :wave:, I Am Thato
 
-&ensp;<a href="https://www.linkedin.com/in/thato-jadezweni/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="20"/></a> 
+&ensp;<a href="https://www.linkedin.com/in/thato-jadezweni/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="25"/></a> 
 
 I am a BSc Computer Science student interested in **Backend Engineering**.
 
