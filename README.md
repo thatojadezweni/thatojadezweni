@@ -3,7 +3,8 @@
 
 &ensp;<a href="https://www.linkedin.com/in/thato-jadezweni/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="25"/></a> 
 
-I am a BSc Computer Science student interested in **Backend Engineering**.
+I am a third year BSc Computer Science student at the University of Pretoria who's 
+aspiring to become a **backend engineer**. I have a keenness to explore and learn about new technologies and as well further my knowledge within the field.
 
 ___
 
