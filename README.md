@@ -23,12 +23,12 @@ My favourite ones are Docker, ASP.NET, Typescript and Svelte.
  
 ## 	:chart_with_upwards_trend: Statistics
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ThatoJadezweni)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ThatoJadezweni&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Uncomment at a later stage
 
 ## :computer: Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThatoJadezweni&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThatoJadezweni&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 -->
