@@ -1,33 +1,34 @@
 
-# Thato Jadezweni
+# Hi :wave:, I Am Thato
 
-## :construction_worker: About me
+&ensp;<a href="https://www.linkedin.com/in/thato-jadezweni/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="25"/></a> 
 
-Currently a final year BSc Computer Science at the 
-University of Pretoria and looking forward to expand
-my knowledge in the broad field of Computer Science.
+I am a BSc Computer Science student interested in **Backend Engineering**.
 
-## :rocket: Skills
+___
 
-- Data structures and Algorithms
-- Backend Development
-- Relational Databases
-- Version Control
-- Unit & Integration Testing
+## :pancakes: Tech Stack
 
-## :wrench: Technologies
-- C++
-- Java
-- HTML5, CSS3
-- Javascript, Typescript
-- NodeJS
-- PostgreSQL
-- MySQL
+I work with many different technologies and languages. 
+My favourite ones are Docker, ASP.NET, Typescript and Svelte.
 
-## :zap: Interests
-- Artificial Intelligence
-- Anime
-- Ethical Hacking
-- Painting
+<img src="https://cdn.worldvectorlogo.com/logos/docker.svg" title="Docker" alt="Docker Logo" width="50"/>&emsp;
+<img src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg" title=".NET" alt=".NET Logo" width="50"/>&emsp;
+<img src="https://cdn.worldvectorlogo.com/logos/svelte-1.svg" title="Svelte" alt="Svelte Logo" width="40"/>&emsp;
+<img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" title="Typescript" alt="Typescript Logo" width="40"/>&emsp;
 
-  
+ <br>
+ 
+ ---
+ 
+## 	:chart_with_upwards_trend: Statistics
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ThatoJadezweni)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- Uncomment at a later stage
+
+## :computer: Most Used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThatoJadezweni&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+-->
