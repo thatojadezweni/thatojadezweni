@@ -22,9 +22,7 @@ My favourite ones are Docker, ASP.NET ,and Svelte.
  
 ## Statistics
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ThatoJadezweni&repo=github-readme-stats" />
-</a>
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ThatoJadezweni)](https://github.com/anuraghazra/github-readme-stats)
 
 ## :computer: Most Used Languages
 
