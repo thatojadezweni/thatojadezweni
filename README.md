@@ -12,11 +12,10 @@ ___
 ## :pancakes: Tech Stack
 
 I work with many different technologies and languages. 
-My favourite ones are Docker, ASP.NET, Typescript and Svelte.
+My favourite ones are Docker, ASP.NET, and Typescript.
 
 <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" title="Docker" alt="Docker Logo" width="50"/>&emsp;
 <img src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg" title=".NET" alt=".NET Logo" width="50"/>&emsp;
-<img src="https://cdn.worldvectorlogo.com/logos/svelte-1.svg" title="Svelte" alt="Svelte Logo" width="40"/>&emsp;
 <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" title="Typescript" alt="Typescript Logo" width="40"/>&emsp;
 
  <br>
