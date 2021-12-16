@@ -1,9 +1,6 @@
 
 # Hi :wave:
 
-<a href="https://www.linkedin.com/in/thato-jadezweni/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="25"/></a>&emsp;
-<a href="mailto:thatojadezweni@gmail.com"><img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" title="Gmail" alt="Gmail Account" width="25"/></a>&emsp;
-
 I am a third year BSc Computer Science student at the University of Pretoria who's 
 aspiring to become a **backend engineer**. I have a keenness to explore and learn about new technologies and as well I'm excited to further my knowledge within the field.
 
@@ -33,3 +30,8 @@ My favourite ones are Docker, ASP.NET, and Typescript.
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=thatojadezweni&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 -->
+
+## Contact Me
+
+<a href="https://www.linkedin.com/in/thato-jadezweni/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="25"/></a>&emsp;
+<a href="mailto:thatojadezweni@gmail.com"><img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" title="Gmail" alt="Gmail Account" width="25"/></a>&emsp;
