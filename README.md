@@ -6,6 +6,8 @@ aspiring to become a **backend engineer**. I have a keenness to explore and lear
 
 ___
 
+<!--
+
 ## :pancakes: Tech Stack
 
 I work with many different technologies and languages. 
@@ -18,6 +20,8 @@ My favourite ones are Docker, ASP.NET, and Typescript.
  <br>
  
  ---
+
+-->
  
 ## 	:chart_with_upwards_trend: Statistics
 
