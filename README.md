@@ -1,8 +1,7 @@
 
 # Hi :wave:
 
-I am a third year BSc Computer Science student at the University of Pretoria who's 
-aspiring to become a **backend engineer**. I have a keenness to explore and learn about new technologies and as well I'm excited to further my knowledge within the field.
+I am a BSc Computer Science student graduate who's aspiring to become a **backend engineer**. I have a keenness to explore and learn about new technologies and as well I'm excited to further my knowledge within the field.
 
 ___
 
